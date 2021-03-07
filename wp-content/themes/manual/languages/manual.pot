@@ -1,0 +1,5119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Manual Theme\n"
+"POT-Creation-Date: 2019-09-01 07:25+0545\n"
+"PO-Revision-Date: 2019-09-01 07:26+0545\n"
+"Last-Translator: \n"
+"Language-Team: wpsmartapps <support@wpsmartapps.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "404"
+msgstr ""
+
+#: ../404.php:16
+msgid "The link BROKEN, or the page has been REMOVED. Try search our site."
+msgstr ""
+
+#: ../404.php:17
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: ../archive.php:25 ../index.php:15 ../taxonomy-manualfaqcategory.php:125
+#: ../taxonomy-manualknowledgebasecat.php:217 ../taxonomy-manual_kb_tag.php:34
+#: ../template/content-search.php:114
+msgid "&lt;"
+msgstr ""
+
+#: ../archive.php:26 ../index.php:16 ../taxonomy-manualfaqcategory.php:126
+#: ../taxonomy-manualknowledgebasecat.php:218 ../taxonomy-manual_kb_tag.php:35
+#: ../template/content-search.php:115
+msgid "&gt;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Leave A Comment"
+msgstr ""
+
+#: ../comments.php:59 ../framework/vc-include/vc.php:202
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:66
+msgid "*"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Name "
+msgstr ""
+
+#: ../comments.php:64
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Email "
+msgstr ""
+
+#: ../comments.php:69
+msgid "Your Website"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:76 ../comments.php:78
+msgid "Comment"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:185
+msgid ""
+"<div class=\"manual_adminmsg\"><span>PLEASE UPGRADE \"Ultimate Addons for "
+"WPBakery Page Builder\" to new version 3.19.0</span> <br><br> 1. Go to: "
+"Plugins -> Installed Plugins. <br>2. <strong>DELETE plugin</strong> "
+"\"Ultimate Addons for WPBakery Page Builder\" for the system. <strong><i>"
+"(you must DEACTIVATE plugin first and DELETE it)</i></strong> <br> 3. "
+"<strong>Click on \"Begin installing plugin\" -OR - go to \"Apperance > "
+"Install Plugins\"</strong>, to install new version.</span> <br><br><i>Note: "
+"No data will be loss in this upgrade process.</i> </div>"
+msgstr ""
+
+#: ../single-manual_faq.php:29 ../taxonomy-manualfaqcategory.php:117
+#: ../framework/vc-include/shortcodes.php:1322
+#: ../template/content-searchrecords.php:29
+#: ../template/content-searchrecords.php:31 ../template/content.php:42
+#: ../template/doc/functions.php:295 ../template/kb/functions.php:60
+msgid "Edit"
+msgstr ""
+
+#: ../single-manual_kb.php:108 ../template/content.php:85
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:33 ../bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:65
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:121
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:159
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:39 ../bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:27
+msgid "Reply"
+msgstr ""
+
+#: ../bbpress/form-reply.php:116 ../bbpress/form-topic.php:186
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:156
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:164 ../bbpress/form-topic.php:224
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:73
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:115
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:65
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:73
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: ../framework/breadcrumb.php:277
+msgid "Search Results for: "
+msgstr ""
+
+#: ../framework/template-tags.php:80
+msgid "Leave a comment"
+msgstr ""
+
+#: ../framework/template-tags.php:80
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/template-tags.php:80
+msgid "% Comments"
+msgstr ""
+
+#: ../framework/template-tags.php:137
+msgid "Older Comments"
+msgstr ""
+
+#: ../framework/template-tags.php:141
+msgid "Newer Comments"
+msgstr ""
+
+#: ../framework/template-tags.php:186
+#, php-format
+msgid "<strong>%s</strong> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../framework/template-tags.php:194
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/template-tags.php:197
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/template-tags.php:198
+msgid "(Edit)"
+msgstr ""
+
+#: ../framework/customize/customize-header.php:245
+#, php-format
+msgid "daily archives: %s"
+msgstr ""
+
+#: ../framework/customize/customize-header.php:247
+#, php-format
+msgid "monthly archives: %s"
+msgstr ""
+
+#: ../framework/customize/customize-header.php:249
+#, php-format
+msgid "yearly archives: %s"
+msgstr ""
+
+#: ../framework/customize/customize-header.php:298
+msgid "/"
+msgstr ""
+
+#: ../framework/customize/customize-header.php:299
+msgid "Home"
+msgstr ""
+
+#: ../framework/import/one-click-import.php:66
+#: ../framework/import/one-click-import.php:67
+msgid "Manual Demo Import"
+msgstr ""
+
+#: ../framework/includes/functions.php:842
+msgid "Login"
+msgstr ""
+
+#: ../framework/includes/functions.php:1087
+#: ../framework/includes/functions.php:1092
+#: ../framework/ReduxCore/manual/manual.php:3801
+#: ../framework/ReduxCore/manual/manual.php:3802 ../template/content.php:95
+msgid "Continue Reading"
+msgstr ""
+
+#: ../framework/includes/hook.php:327
+msgid "Post Comment"
+msgstr ""
+
+#: ../framework/includes/hook.php:339 ../framework/includes/hook.php:384
+#: ../framework/includes/hook.php:428
+msgid "Post Like"
+msgstr ""
+
+#: ../framework/includes/hook.php:340 ../framework/includes/hook.php:385
+#: ../framework/includes/hook.php:429
+msgid "Post Unlike"
+msgstr ""
+
+#: ../framework/includes/hook.php:341 ../framework/includes/hook.php:386
+#: ../framework/includes/hook.php:430
+msgid "Post Visitors"
+msgstr ""
+
+#: ../framework/includes/hook.php:354 ../framework/includes/hook.php:399
+#: ../framework/includes/hook.php:443
+msgid " like"
+msgstr ""
+
+#: ../framework/includes/hook.php:356 ../framework/includes/hook.php:365
+#: ../framework/includes/hook.php:401 ../framework/includes/hook.php:410
+#: ../framework/includes/hook.php:445 ../framework/includes/hook.php:454
+msgid "--"
+msgstr ""
+
+#: ../framework/includes/hook.php:363 ../framework/includes/hook.php:408
+#: ../framework/includes/hook.php:452
+msgid " unlike"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:7
+msgid "KB Article Access Control"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:21
+msgid "Documentation Article Access Control"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:43
+msgid "Allow access only for the login users"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:44
+msgid "Only login users can have access"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:60
+msgid "Publish Article will limit to above define user roles"
+msgstr ""
+
+#: ../framework/post-meta/custom-meta.php:63
+msgid "Login Message"
+msgstr ""
+
+#: ../framework/post-meta/doc.php:13 ../framework/post-meta/kb.php:67
+#: ../framework/ReduxCore/manual/manual.php:3869
+msgid "Attached Files"
+msgstr ""
+
+#: ../framework/post-meta/doc.php:41 ../framework/post-meta/kb.php:96
+msgid "Attachment {#}"
+msgstr ""
+
+#: ../framework/post-meta/doc.php:42 ../framework/post-meta/kb.php:97
+#: ../framework/post-meta/page.php:419 ../framework/post-meta/page.php:476
+#: ../framework/post-meta/page.php:584 ../framework/post-meta/page.php:618
+msgid "Add Another Entry"
+msgstr ""
+
+#: ../framework/post-meta/doc.php:43 ../framework/post-meta/kb.php:98
+#: ../framework/post-meta/page.php:420 ../framework/post-meta/page.php:477
+#: ../framework/post-meta/page.php:585 ../framework/post-meta/page.php:619
+msgid "Remove Entry"
+msgstr ""
+
+#: ../framework/post-meta/home-pg-block.php:12
+msgid "Home Page Help Options"
+msgstr ""
+
+#: ../framework/post-meta/home-pg-block.php:104
+#: ../framework/ReduxCore/manual/manual.php:5825
+msgid "Organization Blocks"
+msgstr ""
+
+#: ../framework/post-meta/home-pg-block.php:156
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/post-meta/kb.php:12
+msgid "Header Image"
+msgstr ""
+
+#: ../framework/post-meta/page.php:13
+msgid "'Hamburger Menu & Search Box' On The Navigation Bar"
+msgstr ""
+
+#: ../framework/post-meta/page.php:22
+msgid "Hamburger Menu"
+msgstr ""
+
+#: ../framework/post-meta/page.php:23
+msgid ""
+"On checked, The navigation header menu will be replaced by hamburger menu"
+msgstr ""
+
+#: ../framework/post-meta/page.php:29
+msgid "Search Box On The Menu Bar"
+msgstr ""
+
+#: ../framework/post-meta/page.php:36
+msgid "Modern Search Design"
+msgstr ""
+
+#: ../framework/post-meta/page.php:37
+msgid "On checked, Standard search design will be replaced by modern layout"
+msgstr ""
+
+#: ../framework/post-meta/page.php:55
+msgid "Navigation Style Controls"
+msgstr ""
+
+#: ../framework/post-meta/page.php:64
+msgid "Header Menu Bar Type"
+msgstr ""
+
+#: ../framework/post-meta/page.php:70
+msgid "With Transparent Background"
+msgstr ""
+
+#: ../framework/post-meta/page.php:71
+msgid "Without Background (White Backgorund)"
+msgstr ""
+
+#: ../framework/post-meta/page.php:76
+msgid "Hide Navigation Area Initially"
+msgstr ""
+
+#: ../framework/post-meta/page.php:83
+#: ../framework/ReduxCore/manual/manual.php:2186
+#: ../framework/ReduxCore/manual/manual.php:2392
+#: ../framework/ReduxCore/manual/manual.php:2603
+#: ../framework/ReduxCore/manual/manual.php:2802
+#: ../framework/ReduxCore/manual/manual.php:3001
+#: ../framework/ReduxCore/manual/manual.php:3213
+#: ../framework/ReduxCore/manual/manual.php:3404
+#: ../framework/ReduxCore/manual/manual.php:3606
+msgid "Add Nav Background"
+msgstr ""
+
+#: ../framework/post-meta/page.php:91
+msgid "Nav Background Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:99
+msgid "Nav Background Color Opacity"
+msgstr ""
+
+#: ../framework/post-meta/page.php:109
+#: ../framework/ReduxCore/manual/manual.php:2195
+#: ../framework/ReduxCore/manual/manual.php:2401
+#: ../framework/ReduxCore/manual/manual.php:2613
+#: ../framework/ReduxCore/manual/manual.php:2811
+#: ../framework/ReduxCore/manual/manual.php:3010
+#: ../framework/ReduxCore/manual/manual.php:3221
+#: ../framework/ReduxCore/manual/manual.php:3413
+#: ../framework/ReduxCore/manual/manual.php:3614
+msgid "Add Nav Border Bottom"
+msgstr ""
+
+#: ../framework/post-meta/page.php:116
+#: ../framework/ReduxCore/manual/manual.php:1104
+#: ../framework/ReduxCore/manual/manual.php:2204
+#: ../framework/ReduxCore/manual/manual.php:2410
+#: ../framework/ReduxCore/manual/manual.php:2622
+#: ../framework/ReduxCore/manual/manual.php:2820
+#: ../framework/ReduxCore/manual/manual.php:3019
+#: ../framework/ReduxCore/manual/manual.php:3230
+#: ../framework/ReduxCore/manual/manual.php:3422
+#: ../framework/ReduxCore/manual/manual.php:3623
+msgid "Border Bottom Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:124
+msgid "Border Bottom Color Opacity"
+msgstr ""
+
+#: ../framework/post-meta/page.php:133
+msgid "Add Nav Box Shadow"
+msgstr ""
+
+#: ../framework/post-meta/page.php:152
+msgid "Page Header Controls"
+msgstr ""
+
+#: ../framework/post-meta/page.php:161
+msgid "Hide Header"
+msgstr ""
+
+#: ../framework/post-meta/page.php:168
+msgid "Activate Search Box"
+msgstr ""
+
+#: ../framework/post-meta/page.php:175
+#: ../framework/ReduxCore/manual/manual.php:2041
+#: ../framework/ReduxCore/manual/manual.php:2270
+#: ../framework/ReduxCore/manual/manual.php:2478
+#: ../framework/ReduxCore/manual/manual.php:2679
+#: ../framework/ReduxCore/manual/manual.php:2876
+#: ../framework/ReduxCore/manual/manual.php:3093
+#: ../framework/ReduxCore/manual/manual.php:3285
+#: ../framework/ReduxCore/manual/manual.php:3479
+msgid "Search Box Display Column Layout"
+msgstr ""
+
+#: ../framework/post-meta/page.php:182
+msgid "Exact Center"
+msgstr ""
+
+#: ../framework/post-meta/page.php:183
+msgid "50% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:184
+msgid "58% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:185
+msgid "66% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:186
+msgid "75% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:187
+msgid "83% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:188
+msgid "91% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:189
+msgid "100% Width"
+msgstr ""
+
+#: ../framework/post-meta/page.php:203
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:210
+msgid "Page Header Background Linear Gradient Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:219
+msgid ""
+"Force apply white logo and white menu bar text for the selected 'Page Header "
+"Background Color'"
+msgstr ""
+
+#: ../framework/post-meta/page.php:228
+msgid "Page Header Image"
+msgstr ""
+
+#: ../framework/post-meta/page.php:229
+msgid ""
+"Upload image for your header (Note: Does not work if, place slider "
+"revolution shortcode or select <strong>Template as \"Home Page\") "
+msgstr ""
+
+#: ../framework/post-meta/page.php:239
+msgid ""
+"Force apply black logo and black menu bar text for the selected 'Page Header "
+"Image'"
+msgstr ""
+
+#: ../framework/post-meta/page.php:247
+msgid "Background Image Display Position"
+msgstr ""
+
+#: ../framework/post-meta/page.php:255
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/post-meta/page.php:256
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/post-meta/page.php:257
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/post-meta/page.php:262
+#: ../framework/ReduxCore/manual/manual.php:1659
+#: ../framework/ReduxCore/manual/manual.php:2215
+#: ../framework/ReduxCore/manual/manual.php:2421
+#: ../framework/ReduxCore/manual/manual.php:2633
+#: ../framework/ReduxCore/manual/manual.php:2831
+#: ../framework/ReduxCore/manual/manual.php:3030
+#: ../framework/ReduxCore/manual/manual.php:3241
+#: ../framework/ReduxCore/manual/manual.php:3433
+#: ../framework/ReduxCore/manual/manual.php:3634
+msgid "Apply Background Opacity For the Upload Image"
+msgstr ""
+
+#: ../framework/post-meta/page.php:263
+msgid "If checked, Background Opacity will activate"
+msgstr ""
+
+#: ../framework/post-meta/page.php:270
+msgid "Background Opacity Color For the Upload Image"
+msgstr ""
+
+#: ../framework/post-meta/page.php:277
+msgid "Background Color Opacity Depth"
+msgstr ""
+
+#: ../framework/post-meta/page.php:286
+#: ../framework/ReduxCore/manual/manual.php:1666
+#: ../framework/ReduxCore/manual/manual.php:2241
+msgid "Apply Parallax Effect For the Upload Image"
+msgstr ""
+
+#: ../framework/post-meta/page.php:287
+#: ../framework/ReduxCore/manual/manual.php:2242
+msgid "If checked, Parallax effect will activate"
+msgstr ""
+
+#: ../framework/post-meta/page.php:294
+msgid "Slider Revolution ShortCode"
+msgstr ""
+
+#: ../framework/post-meta/page.php:313
+msgid "Page Header Text Controls"
+msgstr ""
+
+#: ../framework/post-meta/page.php:322
+msgid "Text Alignment"
+msgstr ""
+
+#: ../framework/post-meta/page.php:323
+msgid "Header Content alignment"
+msgstr ""
+
+#: ../framework/post-meta/page.php:328
+msgid "Left"
+msgstr ""
+
+#: ../framework/post-meta/page.php:329
+msgid "Center"
+msgstr ""
+
+#: ../framework/post-meta/page.php:330
+msgid "Right"
+msgstr ""
+
+#: ../framework/post-meta/page.php:335
+msgid "Disable Main/Replacement Title"
+msgstr ""
+
+#: ../framework/post-meta/page.php:336
+msgid "If checked, title will be disable"
+msgstr ""
+
+#: ../framework/post-meta/page.php:342
+msgid "Replacement Title"
+msgstr ""
+
+#: ../framework/post-meta/page.php:343
+msgid "New page tagline"
+msgstr ""
+
+#: ../framework/post-meta/page.php:352 ../framework/vc-include/vc.php:703
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:359
+msgid "Title Size"
+msgstr ""
+
+#: ../framework/post-meta/page.php:366 ../framework/post-meta/page.php:498
+msgid "Title Weight"
+msgstr ""
+
+#: ../framework/post-meta/page.php:373 ../framework/post-meta/page.php:505
+msgid "Thin 100"
+msgstr ""
+
+#: ../framework/post-meta/page.php:374 ../framework/post-meta/page.php:506
+msgid "Extra-Light 200"
+msgstr ""
+
+#: ../framework/post-meta/page.php:375 ../framework/post-meta/page.php:507
+msgid "Light 300"
+msgstr ""
+
+#: ../framework/post-meta/page.php:376 ../framework/post-meta/page.php:508
+msgid "Regular 400"
+msgstr ""
+
+#: ../framework/post-meta/page.php:377 ../framework/post-meta/page.php:509
+msgid "Medium 500"
+msgstr ""
+
+#: ../framework/post-meta/page.php:378 ../framework/post-meta/page.php:510
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ../framework/post-meta/page.php:379 ../framework/post-meta/page.php:511
+msgid "Bold 700"
+msgstr ""
+
+#: ../framework/post-meta/page.php:380 ../framework/post-meta/page.php:512
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ../framework/post-meta/page.php:381 ../framework/post-meta/page.php:513
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ../framework/post-meta/page.php:386
+msgid "Title Font Family"
+msgstr ""
+
+#: ../framework/post-meta/page.php:392 ../framework/post-meta/page.php:523
+msgid "Open Sans"
+msgstr ""
+
+#: ../framework/post-meta/page.php:393 ../framework/post-meta/page.php:524
+msgid "Raleway"
+msgstr ""
+
+#: ../framework/post-meta/page.php:394 ../framework/post-meta/page.php:525
+msgid "Lato"
+msgstr ""
+
+#: ../framework/post-meta/page.php:395 ../framework/post-meta/page.php:526
+msgid "Roboto"
+msgstr ""
+
+#: ../framework/post-meta/page.php:396 ../framework/post-meta/page.php:527
+msgid "Montserrat"
+msgstr ""
+
+#: ../framework/post-meta/page.php:401
+#: ../framework/ReduxCore/manual/manual.php:1773
+#: ../framework/ReduxCore/manual/manual.php:1849
+#: ../framework/vc-include/vc.php:721
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../framework/post-meta/page.php:407 ../framework/post-meta/page.php:539
+msgid "Uppercase"
+msgstr ""
+
+#: ../framework/post-meta/page.php:408 ../framework/post-meta/page.php:540
+msgid "Capitalize"
+msgstr ""
+
+#: ../framework/post-meta/page.php:409 ../framework/post-meta/page.php:541
+msgid "None"
+msgstr ""
+
+#: ../framework/post-meta/page.php:418
+msgid "[+] Extra Title Text Style"
+msgstr ""
+
+#: ../framework/post-meta/page.php:427 ../framework/post-meta/page.php:546
+msgid "Padding"
+msgstr ""
+
+#: ../framework/post-meta/page.php:435 ../framework/vc-include/vc.php:2630
+msgid "Margin"
+msgstr ""
+
+#: ../framework/post-meta/page.php:443 ../framework/post-meta/page.php:554
+msgid "Line Height"
+msgstr ""
+
+#: ../framework/post-meta/page.php:451 ../framework/post-meta/page.php:562
+#: ../framework/ReduxCore/manual/manual.php:1208
+#: ../framework/ReduxCore/manual/manual.php:1302
+#: ../framework/ReduxCore/manual/manual.php:1438
+#: ../framework/ReduxCore/manual/manual.php:1510
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/post-meta/page.php:461
+msgid "Subtitle Text"
+msgstr ""
+
+#: ../framework/post-meta/page.php:462
+msgid "Enter your subtitle text (will appear under title)"
+msgstr ""
+
+#: ../framework/post-meta/page.php:475
+msgid "[+] Subtitle Text Style"
+msgstr ""
+
+#: ../framework/post-meta/page.php:484 ../framework/post-meta/page.php:592
+#: ../framework/ReduxCore/manual/manual.php:962
+#: ../framework/vc-include/vc.php:477 ../framework/vc-include/vc.php:764
+#: ../framework/vc-include/vc.php:2747 ../framework/vc-include/vc.php:3042
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:491 ../framework/vc-include/vc.php:2756
+msgid "Text Size"
+msgstr ""
+
+#: ../framework/post-meta/page.php:518
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/post-meta/page.php:532
+#: ../framework/ReduxCore/manual/manual.php:1216
+#: ../framework/ReduxCore/manual/manual.php:1319
+#: ../framework/ReduxCore/manual/manual.php:1446
+#: ../framework/ReduxCore/manual/manual.php:1518
+#: ../framework/ReduxCore/manual/manual.php:5047
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/post-meta/page.php:572
+msgid "Activate Breadcrumb"
+msgstr ""
+
+#: ../framework/post-meta/page.php:573
+msgid "If checked, breadcrumb will be activate"
+msgstr ""
+
+#: ../framework/post-meta/page.php:583
+msgid "[+] Breadcrumb Style"
+msgstr ""
+
+#: ../framework/post-meta/page.php:599 ../framework/vc-include/vc.php:822
+#: ../framework/vc-include/vc.php:2906
+msgid "Link Text Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:606
+msgid "Link Text Hover Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:617
+msgid "[+] Trending Search Style"
+msgstr ""
+
+#: ../framework/post-meta/page.php:626
+msgid "Search Text Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:633
+msgid "Search Link Text Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:640
+msgid "Search Link Text Hover Color"
+msgstr ""
+
+#: ../framework/post-meta/page.php:659
+msgid "Page Footer Controls"
+msgstr ""
+
+#: ../framework/post-meta/page.php:668
+msgid "Forcely De-activate Footer Widget Area"
+msgstr ""
+
+#: ../framework/post-meta/page.php:669
+msgid "Will de-activate footer widget area"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:12
+msgid "Portfolio :: Redirect"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:21
+msgid "Custom Redirect Link URL"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:22
+msgid "Custom redirect link to the portfolio details page"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:39
+msgid "Portfolio :: Page Display Option"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:48
+msgid "Page Template"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:49
+msgid "Select an option"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:52
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:53
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:54
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:55
+msgid "Full Width (VC Page Builder)"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:73
+msgid "Portfolio :: Display Control"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:82
+msgid "Activate  Like/Dislike"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:83
+msgid "Display visitors control like/dislike post"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:87
+#: ../framework/post-meta/portfolio.php:99
+#: ../framework/post-meta/portfolio.php:111
+#: ../framework/post-meta/portfolio.php:123
+msgid "ON"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:88
+#: ../framework/post-meta/portfolio.php:100
+#: ../framework/post-meta/portfolio.php:112
+#: ../framework/post-meta/portfolio.php:124
+msgid "OFF"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:94
+msgid "Activate Post Infomation"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:95
+msgid "Display (post views, post date, author, likes) Stats"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:106
+msgid "Activate Social Share"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:107
+msgid "Display post social share"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:118
+msgid "Disable Social Share & Naviagtion Section"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:119
+msgid "Disable footer social share and navigation section"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:141
+msgid "Portfolio :: Description and Link"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:150
+msgid "Disable Feature"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:151
+msgid ""
+"If checked current section (Portfolio :: Description and Link) will go "
+"inactive"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:157
+msgid "Text Title"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:158
+msgid ""
+"Will appear as title on the sidebar section or at the top based on the "
+"choosen page template."
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:164
+#: ../framework/vc-include/vc.php:2869
+msgid "Description"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:165
+msgid "Your short description"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:171
+msgid "Link Button Text"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:172
+msgid "Your link URL text (example: DOWNLOAD NOW)"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:178 ../framework/vc-include/vc.php:814
+#: ../framework/vc-include/vc.php:2110 ../framework/vc-include/vc.php:2600
+#: ../framework/vc-include/vc.php:2726 ../framework/vc-include/vc.php:2890
+#: ../framework/vc-include/vc.php:3012
+msgid "Link URL"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:195
+msgid "Portfolio :: Images"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:207
+msgid "Image {#}"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:208
+msgid "Add Another Image"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:209
+msgid "Remove Image"
+msgstr ""
+
+#: ../framework/post-meta/portfolio.php:215
+msgid "Image URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:30
+#: ../framework/ReduxCore/manual/manual.php:31
+msgid "Manual Options"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:133
+#: ../framework/ReduxCore/manual/manual.php:3934
+#: ../framework/ReduxCore/manual/manual.php:4456
+#: ../framework/ReduxCore/manual/manual.php:5578
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:138
+msgid "Support"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:144
+msgid "Extensions"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:176
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:177
+#: ../framework/ReduxCore/manual/manual.php:182
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:181
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:188
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:198
+msgid "Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:204
+msgid "Choose a favicon image to be displayed"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:207
+msgid "Favicon Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:214
+msgid "Logo Image - Dark Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:216
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:217
+msgid "Standard logo size: 479(X)105px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:224
+msgid "Theme White Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:225
+msgid "Applyed white logo if found image background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:226
+msgid "Standard image size: 479(X)105px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:232
+msgid "Your custom site URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:233
+msgid "Onclick logo system will redirect to custom site URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:239
+msgid "Hide Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:241
+#: ../framework/ReduxCore/manual/manual.php:653
+#: ../framework/ReduxCore/manual/manual.php:865
+#: ../framework/ReduxCore/manual/manual.php:888
+#: ../framework/ReduxCore/manual/manual.php:1000
+#: ../framework/ReduxCore/manual/manual.php:1350
+#: ../framework/ReduxCore/manual/manual.php:4032
+#: ../framework/ReduxCore/manual/manual.php:4644
+msgid "Global Effect"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:248
+msgid "Logo Adjustment"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:249
+msgid "Readjust logo if needed"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:257
+#: ../framework/ReduxCore/manual/manual.php:322
+msgid "Logo Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:258
+#: ../framework/ReduxCore/manual/manual.php:282
+msgid "Default: 35"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:269
+#: ../framework/ReduxCore/manual/manual.php:334
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:270
+#: ../framework/ReduxCore/manual/manual.php:294
+msgid "Default: -6"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:281
+msgid "Responsive (Logo Height)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:293
+msgid "Responsive (Logo Top Margin)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:305
+#: ../framework/ReduxCore/manual/manual.php:313
+#: ../framework/ReduxCore/manual/manual.php:1553
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:306
+msgid "Readjust sticky menu if needed"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:315
+msgid "Enable or disable sticky menu (Global Effect)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:323
+msgid "Default: 27"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:335
+msgid "Default: -18"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:351
+msgid "Typography"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:360
+msgid "Body Font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:361
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:380
+#: ../framework/ReduxCore/manual/manual.php:419
+#: ../framework/ReduxCore/manual/manual.php:459
+#: ../framework/ReduxCore/manual/manual.php:492
+#: ../framework/ReduxCore/manual/manual.php:525
+#: ../framework/ReduxCore/manual/manual.php:558
+#: ../framework/ReduxCore/manual/manual.php:591
+#: ../framework/ReduxCore/manual/manual.php:624
+msgid "System assume, theme is connected with your custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:381
+msgid "If place name, Body Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:384
+msgid "Body Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:391
+msgid "Navigation Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:398
+msgid "Navigation Font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:399
+msgid "Specify the navigation font properties."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:420
+msgid "If place name, Nav Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:423
+msgid "Nav Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:430
+msgid "Font Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:437
+msgid "H1 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:460
+msgid "If place name, H1 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:463
+msgid "H1 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:470
+msgid "H2 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:493
+msgid "If place name, H2 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:496
+msgid "H2 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:503
+msgid "H3 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:526
+msgid "If place name, H3 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:529
+msgid "H3 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:536
+msgid "H4 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:559
+msgid "If place name, H4 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:562
+msgid "H4 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:569
+msgid "H5 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:592
+msgid "If place name, H5 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:595
+msgid "H5 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:602
+msgid "H6 style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:625
+msgid "If place name, H6 Font Family will be replaced by this custom font"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:628
+msgid "H6 Custom Font Family Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:642
+msgid "Custom Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:650
+msgid "General"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:660
+msgid "Website Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:661
+msgid "Applied to site globally"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:674
+msgid "Standard \"a\" TAG :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:675
+msgid "Standard color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:688
+msgid "Standard \"a\" TAG :: Color (inside post)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:689
+msgid "Standard color for the post content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:702
+msgid "Custom Text :: Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:703
+msgid "Custom text link with icon attached"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:716
+msgid "Botton Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:717
+msgid "Botton with special CSS effects"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:730
+msgid "Botton Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:743
+msgid "Meta Icon :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:744
+#: ../framework/ReduxCore/manual/manual.php:758
+msgid "Appears Below the title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:757
+msgid "Meta Text :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:773
+msgid "Live Search Box"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:781
+msgid "Enable Search Icon BounceIn"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:782
+msgid "Globally Enable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:790
+msgid "Search Box Border Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:798
+msgid "Search Box Icon Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:806
+msgid "Search Box Radius"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:812
+msgid "Default: 4px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:819
+msgid "Search Box Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:825
+msgid "Default: 14px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:833
+msgid "Search Box Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:852
+msgid "Disable Submit Buttom"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:853
+msgid "On==Disable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:862
+msgid "Theme - Widget"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:871
+msgid "Theme Widget Title Tag"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:885
+#: ../framework/ReduxCore/manual/manual.php:6123
+msgid "Footer Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:895
+msgid "Design Footer Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:902
+#: ../framework/ReduxCore/manual/manual.php:4283
+#: ../framework/ReduxCore/manual/manual.php:4623
+#: ../framework/vc-include/vc.php:2094
+msgid "Title Tag"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:914
+#: ../framework/ReduxCore/manual/manual.php:955
+#: ../framework/ReduxCore/manual/manual.php:1264
+#: ../framework/ReduxCore/manual/manual.php:1381
+#: ../framework/vc-include/row.php:89 ../framework/vc-include/vc.php:1149
+#: ../framework/vc-include/vc.php:3033
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:921
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:928
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:935
+#: ../framework/ReduxCore/manual/manual.php:969
+#: ../framework/vc-include/vc.php:1984
+msgid "Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:948
+msgid "Design Footer Social/Copyright Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:982
+msgid "Icon Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:997
+msgid "Go Up Arrow Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1006
+#: ../framework/ReduxCore/manual/manual.php:1169
+#: ../framework/ReduxCore/manual/manual.php:1289
+#: ../framework/ReduxCore/manual/manual.php:1406
+#: ../framework/ReduxCore/manual/manual.php:1479
+#: ../framework/ReduxCore/manual/manual.php:5034
+msgid "Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1012
+msgid "Default: 24px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1019
+#: ../framework/vc-include/vc.php:613
+msgid "Icon Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1020
+msgid ""
+"Enter <a href='http://fortawesome.github.io/Font-Awesome/icons/' target=\\"
+"\"_blank\\\">fontawesome</a> name (eg: fa fa-file-o) -OR- <br>Enter <a "
+"href='https://www.elegantthemes.com/blog/resources/elegant-icon-font' target="
+"\\\"_blank\\\">elegant icon font</a> name -OR- <br>Enter <a href='http://"
+"demo.wpsmartapps.com/themes/manual/et-line-font/' target=\\\"_blank\\\">et "
+"line font</a> name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1022
+msgid "Default: far fa-arrow-alt-circle-up"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1028
+msgid "Go Up Icon Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1046
+msgid "Custom Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1054
+msgid "Menu Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1062
+msgid "Header Background Color for Navigation Style 1"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1063
+msgid "header area background color with white background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1073
+msgid "Header Background Color for Navigation Style 2"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1074
+msgid "header area background color with transparent background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1084
+msgid "Select Navigation Style"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1085
+#: ../framework/ReduxCore/manual/manual.php:6133
+msgid "Settings will effect globally"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1096
+msgid "Activate Border Bottom"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1114
+msgid "Apply Nav Box shadow"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1123
+msgid "Header - Menu Controls"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1126
+msgid ""
+"Some of the google \"font family\" choosen from \"Typography->Navigation "
+"Style\" does not fit correctly, use below configuration to re-adjust all "
+"settings for your header menu."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1133
+msgid "Menu First Level"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1141
+msgid "Navigation Arrow"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1143
+msgid "Down arrow icon will appear if found sub menu"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1144
+#: ../framework/ReduxCore/manual/manual.php:2069
+#: ../framework/ReduxCore/manual/manual.php:2244
+#: ../framework/ReduxCore/manual/manual.php:3070
+#: ../framework/ReduxCore/manual/manual.php:4979
+msgid "On == Enable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1150
+#: ../framework/ReduxCore/manual/manual.php:1271
+#: ../framework/ReduxCore/manual/manual.php:1419
+#: ../framework/ReduxCore/manual/manual.php:1492
+#: ../framework/ReduxCore/manual/manual.php:5014
+msgid "Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1182
+msgid "Text Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1195
+msgid "Responsive Hamburger Menu Top Margin"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1229
+#: ../framework/ReduxCore/manual/manual.php:1332
+#: ../framework/ReduxCore/manual/manual.php:1459
+#: ../framework/ReduxCore/manual/manual.php:1539
+#: ../framework/ReduxCore/manual/manual.php:1578
+msgid "Font Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1242
+msgid "Font Color (for: Nav Bar with image background)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1257
+msgid "Menu Inner Level"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1310
+#: ../framework/ReduxCore/manual/manual.php:1531
+msgid "Letter Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1347
+msgid "Responsive Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1357
+msgid ""
+"Replace Primary Menu \"Bar Icon\" (logo right side icon) with something text "
+"like.. \"Menu\" for the responsive layout"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1359
+msgid ""
+"\"Bar Icon\" will be replaced by text for the device like ipad and iphone"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1365
+msgid "\"Bar Icon\" Replacement Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1374
+msgid "Mobile/Ipad - Menu Holder"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1388
+msgid "Border bottom <li> tag color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1399
+msgid "Mobile/Ipad - Menu First Level"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1472
+msgid "Mobile/Ipad - Menu Inner Level"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1562
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1590
+msgid "Activate White Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1592
+msgid "Normal logo dark logo will be replaced by the white logo"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1606
+msgid "Default Theme Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1616
+#: ../framework/ReduxCore/manual/manual.php:3675
+msgid "Infomration"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1617
+msgid ""
+"Settings set for the header style are always global BUT if any options like "
+"font family, font weight are chosen while crating page using \"Pages-> Add "
+"New\" or creating knowledge-base etc, such settings will overwrite global "
+"settings create unique header layout."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1625
+msgid "Customize Header Background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1632
+msgid "Disable Default Gray Noise Background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1633
+#: ../framework/ReduxCore/manual/manual.php:1642
+msgid "on/off default gray noise background image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1641
+msgid "Enable Navigation Bar Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1648
+msgid "Custom Header Background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1651
+msgid "Header Background"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1673
+#: ../framework/ReduxCore/manual/manual.php:2173
+#: ../framework/ReduxCore/manual/manual.php:2379
+#: ../framework/ReduxCore/manual/manual.php:2590
+#: ../framework/ReduxCore/manual/manual.php:2789
+#: ../framework/ReduxCore/manual/manual.php:2989
+#: ../framework/ReduxCore/manual/manual.php:3201
+#: ../framework/ReduxCore/manual/manual.php:3594
+msgid "Header Background Position"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1685
+msgid "Header Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1693
+msgid ""
+"Force apply white logo and white menu bar text for the selected 'Header "
+"Background Color'"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1700
+msgid "Height (equal top/bottom padding)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1713
+#: ../framework/ReduxCore/manual/manual.php:2088
+#: ../framework/ReduxCore/manual/manual.php:2296
+#: ../framework/ReduxCore/manual/manual.php:2504
+#: ../framework/ReduxCore/manual/manual.php:2718
+#: ../framework/ReduxCore/manual/manual.php:2916
+#: ../framework/ReduxCore/manual/manual.php:3123
+#: ../framework/ReduxCore/manual/manual.php:3326
+#: ../framework/ReduxCore/manual/manual.php:3509
+msgid "Header Text Align"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1726
+msgid "Customize Header Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1734
+msgid "Default Header Title Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1741
+#: ../framework/ReduxCore/manual/manual.php:2116
+#: ../framework/ReduxCore/manual/manual.php:2328
+#: ../framework/ReduxCore/manual/manual.php:2537
+#: ../framework/ReduxCore/manual/manual.php:2737
+#: ../framework/ReduxCore/manual/manual.php:2936
+#: ../framework/ReduxCore/manual/manual.php:3150
+#: ../framework/ReduxCore/manual/manual.php:3354
+#: ../framework/ReduxCore/manual/manual.php:3536
+#: ../framework/vc-include/vc.php:2295
+msgid "Title Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1754
+#: ../framework/ReduxCore/manual/manual.php:1830
+#: ../framework/ReduxCore/manual/manual.php:2132
+#: ../framework/ReduxCore/manual/manual.php:2344
+#: ../framework/ReduxCore/manual/manual.php:2553
+#: ../framework/ReduxCore/manual/manual.php:2753
+#: ../framework/ReduxCore/manual/manual.php:2952
+#: ../framework/ReduxCore/manual/manual.php:3166
+#: ../framework/ReduxCore/manual/manual.php:3370
+#: ../framework/ReduxCore/manual/manual.php:3552
+#: ../framework/vc-include/vc.php:734
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1787
+#: ../framework/ReduxCore/manual/manual.php:1863
+msgid "Title Text Letter Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1801
+msgid "Customize Header Sub Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1809
+msgid "Default Header Sub Title Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1816
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1877
+msgid "Customize Breadcrumb Link"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1885
+msgid "Default Header Breadcrumb Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1892
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1905
+msgid "Breadcrumb Text Transform"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1918
+msgid "breadcrumb Text Letter Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1931
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1944
+msgid "Breadcrumb Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1964
+msgid "Padding Top"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1978
+#: ../framework/ReduxCore/manual/manual.php:5459
+msgid "Trending Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1985
+msgid "Treanding Search Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:1992
+msgid "Treanding Search Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2014
+msgid "Custom Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2022
+msgid "Bbpress/Forum"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2032
+#: ../framework/ReduxCore/manual/manual.php:5375
+msgid "Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2033
+msgid "Enable/Disable \"Search\" on the forum pages"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2035
+#: ../framework/ReduxCore/manual/manual.php:2061
+#: ../framework/ReduxCore/manual/manual.php:3279
+#: ../framework/ReduxCore/manual/manual.php:3305
+#: ../framework/ReduxCore/manual/manual.php:3473
+#: ../framework/ReduxCore/manual/manual.php:4590
+#: ../framework/ReduxCore/manual/manual.php:4674
+#: ../framework/ReduxCore/manual/manual.php:4691
+#: ../framework/ReduxCore/manual/manual.php:4727
+#: ../framework/ReduxCore/manual/manual.php:4736
+#: ../framework/ReduxCore/manual/manual.php:4745
+#: ../framework/ReduxCore/manual/manual.php:4753
+#: ../framework/ReduxCore/manual/manual.php:4800
+#: ../framework/ReduxCore/manual/manual.php:4843
+#: ../framework/ReduxCore/manual/manual.php:4988
+#: ../framework/ReduxCore/manual/manual.php:5205
+#: ../framework/ReduxCore/manual/manual.php:5221
+#: ../framework/ReduxCore/manual/manual.php:5239
+#: ../framework/ReduxCore/manual/manual.php:5248
+#: ../framework/ReduxCore/manual/manual.php:5257
+#: ../framework/ReduxCore/manual/manual.php:6005
+#: ../framework/ReduxCore/manual/manual.php:6035
+msgid "Off == Disable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2058
+#: ../framework/ReduxCore/manual/manual.php:3302
+#: ../framework/ReduxCore/manual/manual.php:3998
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2059
+msgid "Enable/Disable \"breadcrumb\" on the forum pages"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2067
+msgid "Include \"Forum Root\" slug name, inside breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2075
+#: ../framework/ReduxCore/manual/manual.php:2308
+#: ../framework/ReduxCore/manual/manual.php:2516
+#: ../framework/ReduxCore/manual/manual.php:2705
+#: ../framework/ReduxCore/manual/manual.php:2902
+#: ../framework/ReduxCore/manual/manual.php:3110
+#: ../framework/ReduxCore/manual/manual.php:3312
+#: ../framework/ReduxCore/manual/manual.php:3496
+msgid "Header Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2081
+#: ../framework/ReduxCore/manual/manual.php:2314
+#: ../framework/ReduxCore/manual/manual.php:2522
+#: ../framework/ReduxCore/manual/manual.php:2711
+#: ../framework/ReduxCore/manual/manual.php:2908
+#: ../framework/ReduxCore/manual/manual.php:3116
+#: ../framework/ReduxCore/manual/manual.php:3318
+#: ../framework/ReduxCore/manual/manual.php:3502
+msgid "Equal top/bottom padding"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2100
+#: ../framework/ReduxCore/manual/manual.php:2108
+#: ../framework/ReduxCore/manual/manual.php:2321
+#: ../framework/ReduxCore/manual/manual.php:2530
+#: ../framework/ReduxCore/manual/manual.php:2730
+#: ../framework/ReduxCore/manual/manual.php:2929
+#: ../framework/ReduxCore/manual/manual.php:3135
+#: ../framework/ReduxCore/manual/manual.php:3339
+#: ../framework/ReduxCore/manual/manual.php:3521
+#: ../framework/ReduxCore/manual/manual.php:5763
+#: ../framework/ReduxCore/manual/manual.php:5847
+#: ../framework/ReduxCore/manual/manual.php:5889
+#: ../framework/ReduxCore/manual/manual.php:5946
+#: ../framework/ReduxCore/manual/manual.php:6012
+msgid "Title Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2109
+msgid "Will appear on the top bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2124
+#: ../framework/ReduxCore/manual/manual.php:2336
+#: ../framework/ReduxCore/manual/manual.php:2545
+#: ../framework/ReduxCore/manual/manual.php:2745
+#: ../framework/ReduxCore/manual/manual.php:2944
+#: ../framework/ReduxCore/manual/manual.php:3158
+#: ../framework/ReduxCore/manual/manual.php:3362
+#: ../framework/ReduxCore/manual/manual.php:3544
+msgid "Title Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2151
+#: ../framework/ReduxCore/manual/manual.php:6019
+msgid "Sub-title Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2152
+msgid "forum sub-title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2159
+#: ../framework/ReduxCore/manual/manual.php:2166
+#: ../framework/ReduxCore/manual/manual.php:2363
+#: ../framework/ReduxCore/manual/manual.php:2371
+#: ../framework/ReduxCore/manual/manual.php:2574
+#: ../framework/ReduxCore/manual/manual.php:2582
+#: ../framework/ReduxCore/manual/manual.php:2772
+#: ../framework/ReduxCore/manual/manual.php:2780
+#: ../framework/ReduxCore/manual/manual.php:2972
+#: ../framework/ReduxCore/manual/manual.php:2981
+#: ../framework/ReduxCore/manual/manual.php:3185
+#: ../framework/ReduxCore/manual/manual.php:3389
+#: ../framework/ReduxCore/manual/manual.php:3579
+#: ../framework/ReduxCore/manual/manual.php:6076
+#: ../framework/vc-include/row.php:109
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2224
+#: ../framework/ReduxCore/manual/manual.php:2430
+#: ../framework/ReduxCore/manual/manual.php:2641
+#: ../framework/ReduxCore/manual/manual.php:2839
+#: ../framework/ReduxCore/manual/manual.php:3038
+#: ../framework/ReduxCore/manual/manual.php:3248
+#: ../framework/ReduxCore/manual/manual.php:3441
+#: ../framework/ReduxCore/manual/manual.php:3641
+#: ../framework/vc-include/row.php:144 ../framework/vc-include/row.php:246
+msgid "Background Opacity Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2235
+#: ../framework/ReduxCore/manual/manual.php:2441
+#: ../framework/ReduxCore/manual/manual.php:2652
+#: ../framework/ReduxCore/manual/manual.php:2850
+#: ../framework/ReduxCore/manual/manual.php:3049
+#: ../framework/ReduxCore/manual/manual.php:3259
+#: ../framework/ReduxCore/manual/manual.php:3452
+#: ../framework/ReduxCore/manual/manual.php:3652
+msgid "Linear Gradient Background Opacity Color"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2252
+msgid "KB - Category/Tag Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2261
+#: ../framework/ReduxCore/manual/manual.php:2469
+#: ../framework/ReduxCore/manual/manual.php:2670
+#: ../framework/ReduxCore/manual/manual.php:2867
+#: ../framework/ReduxCore/manual/manual.php:3084
+#: ../framework/ReduxCore/manual/manual.php:3276
+#: ../framework/ReduxCore/manual/manual.php:3470
+msgid "Disable Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2263
+#: ../framework/ReduxCore/manual/manual.php:2869
+msgid "Disable search bar from the category page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2264
+#: ../framework/ReduxCore/manual/manual.php:2290
+#: ../framework/ReduxCore/manual/manual.php:2463
+#: ../framework/ReduxCore/manual/manual.php:2472
+#: ../framework/ReduxCore/manual/manual.php:2498
+#: ../framework/ReduxCore/manual/manual.php:2673
+#: ../framework/ReduxCore/manual/manual.php:2699
+#: ../framework/ReduxCore/manual/manual.php:2870
+#: ../framework/ReduxCore/manual/manual.php:2896
+#: ../framework/ReduxCore/manual/manual.php:3087
+#: ../framework/ReduxCore/manual/manual.php:4700
+#: ../framework/ReduxCore/manual/manual.php:4709
+#: ../framework/ReduxCore/manual/manual.php:4718
+#: ../framework/ReduxCore/manual/manual.php:4782
+#: ../framework/ReduxCore/manual/manual.php:5185
+#: ../framework/ReduxCore/manual/manual.php:5230
+msgid "On == Disable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2287
+#: ../framework/ReduxCore/manual/manual.php:2495
+#: ../framework/ReduxCore/manual/manual.php:2696
+#: ../framework/ReduxCore/manual/manual.php:2893
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2289
+#: ../framework/ReduxCore/manual/manual.php:2895
+msgid "Disable Breadcrumb from the category page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2368
+#: ../framework/ReduxCore/manual/manual.php:2579
+msgid "Choose a background image for the kb header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2373
+#: ../framework/ReduxCore/manual/manual.php:2584
+msgid "Single image for all kb header (Global Effect)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2451
+msgid "KB - Single Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2460
+msgid "Hide Header Title Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2462
+msgid "Enable/Disable header title text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2471
+msgid "Disable search bar from the header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2497
+msgid "Disable Breadcrumb from the single KB page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2661
+msgid "DOC - Category/Single Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2777
+msgid "Choose a background image for the documentation header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2782
+msgid "Single image for all documentation header (Global Effect)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2858
+msgid "FAQ - Category/Single Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2978
+msgid "Choose a background image for the FAQ header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:2983
+msgid "Single image for all FAQ header (Global Effect)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3058
+msgid "404 Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3067
+msgid "Enable 404 Page Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3068
+msgid "Enable header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3076
+msgid "Normal Header Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3085
+#: ../framework/ReduxCore/manual/manual.php:3277
+msgid "Disable search bar from the header bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3142
+#: ../framework/vc-include/vc.php:694 ../framework/vc-include/vc.php:1541
+#: ../framework/vc-include/vc.php:1598 ../framework/vc-include/vc.php:2084
+#: ../framework/vc-include/vc.php:2149 ../framework/vc-include/vc.php:2588
+#: ../framework/vc-include/vc.php:2841 ../framework/vc-include/vc.php:2973
+msgid "Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3143
+msgid "Enter header title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3194
+#: ../framework/ReduxCore/manual/manual.php:3587
+msgid "Header Background Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3268
+msgid "Blog - Single Post"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3303
+msgid "on/off breadcrumb link on the header bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3346
+msgid "Display Blog Title On The Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3347
+msgid "Display title on the header bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3396
+msgid "Display Featured Image On The Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3397
+msgid "Display Featured Image on the header and removed from the post area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3462
+#: ../framework/ReduxCore/manual/manual.php:5638
+msgid "Search Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3528
+msgid "Header Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3529
+#: ../framework/ReduxCore/manual/manual.php:5764
+#: ../framework/ReduxCore/manual/manual.php:5848
+#: ../framework/ReduxCore/manual/manual.php:5890
+#: ../framework/ReduxCore/manual/manual.php:5947
+msgid "Main title text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3571
+#: ../framework/ReduxCore/manual/manual.php:5771
+#: ../framework/ReduxCore/manual/manual.php:5855
+#: ../framework/ReduxCore/manual/manual.php:5897
+#: ../framework/ReduxCore/manual/manual.php:5954
+msgid "Sub Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3572
+msgid "sub title text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3665
+msgid "Hamburger Menu & Search Box"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3685
+msgid "Hamburger Menu Display Target"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3694
+msgid "Activate Hamburger Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3702
+msgid "Activate Search Box On The Menu Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3710
+msgid "Replace Standard Search Box"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3727
+msgid "Header Live Search Box Display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3738
+msgid "NOTE"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3748
+msgid "Target Search Box Display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3756
+msgid "Activate Search Box On The Header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3773
+msgid "Text & Social Share"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3784
+msgid "Text Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3794
+#: ../framework/ReduxCore/manual/manual.php:5626
+msgid "Post"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3798
+msgid "Will appear under summery post content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3809
+msgid "Custom Post Records"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3813
+msgid "Will appear under knowledgebase and documentation records"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3816
+msgid "View Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3817
+msgid "views"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3824
+msgid "Post Like/Dislike"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3828
+msgid ""
+"This message will appear above Yes/No button on the knowledgebase and "
+"documentation section."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3831
+msgid "Like/Dislike Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3832
+msgid "Was this helpful?"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3837
+msgid "Like Button Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3838
+msgid "(Yes) button Text."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3844
+msgid "Unlike Button Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3845
+msgid "(No) button Text."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3851
+msgid "Already Voted"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3852
+msgid "Message appear if user has voted already"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3861
+msgid "Post File Attached"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3865
+msgid "Will appear as title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3868
+msgid "Attached File Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3872
+#: ../framework/ReduxCore/manual/manual.php:3879
+#: ../framework/ReduxCore/manual/manual.php:3886
+msgid "Will appear on the table section as header"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3875
+msgid "[Attached] File Type Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3882
+msgid "[Attached] File Size Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3889
+msgid "[Attached] File Download Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3898
+#: ../framework/ReduxCore/manual/manual.php:5570
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3904
+msgid "Knowledgebase Category Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3911
+msgid "Knowledgebase Article Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3918
+msgid "View All Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3925
+#: ../framework/ReduxCore/manual/manual.php:3968
+msgid "Related Post Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3940
+msgid "Expand Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3947
+msgid "Collapse Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3954
+msgid "Documentation Category Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3961
+msgid "Documentation Article Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3977
+#: ../framework/ReduxCore/manual/manual.php:4866
+msgid "FAQ"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3983
+msgid "Expand / Collapse Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:3989
+msgid "FAQ Category Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4002
+msgid "rename initial \"Home\" attribute in a Breadcrumb: \"Home / Doc /... "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4005
+msgid "Home Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4006
+msgid "home"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4013
+msgid "Copyright"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4019
+msgid "Copyright Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4020
+msgid " 2019 wpsmartapps.com. All Rights Reserved."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4029
+msgid "Social Share Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4041
+msgid ""
+"seprate ON|OFF feature provided to disable \"Social Share\" on the blog, "
+"knowledge-base, and Documentation section."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4047
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4049
+msgid ""
+"Enable or disable the social share buttons at the end of each post (Global "
+"Effect)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4053
+msgid ""
+"This subject will act as default when visitors try to send favourite read "
+"post via email to there friends"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4056
+msgid "Social Share eMail Button"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4057
+msgid "Awesome Post"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4064
+msgid "Social Share Display Control"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4065
+msgid "Sortable/Control social share display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4093
+msgid "Knowledgebase"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4101
+msgid "Global Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4110
+msgid "Hide Notification Bar from the KB Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4112
+msgid ""
+"Hide notification bar from the knowledgebase area (applied for both category "
+"and single page)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4123
+#: ../framework/ReduxCore/manual/manual.php:4464
+#: ../framework/ReduxCore/manual/manual.php:4874
+msgid "Custom Slug & Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4133
+msgid "Knowledge Base Single Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4134
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>knowledgebase</"
+"strong>/creating-new-kb-post/ <br><br> <div style=\"color: #D01B0B;"
+"\"><strong>WARNING:</strong> Knowledge Base single post slug name "
+"<strong>MUST BE</strong> different from the page name used to display "
+"Knowledge Base. If same name provided system will show 404 on the different "
+"cases. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4141
+msgid "Knowledge Base Category (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4142
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>kb</strong>/"
+"customization/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</"
+"strong> Category Slug Name <strong>MUST BE</strong> different from the "
+"<strong>Knowledge Base Single Post (Slug Name)</strong> and the page name "
+"used to display Knowledge Base. 404 error page will appear if name matched "
+"on the different cases. <br><br> <strong>If possible do not change category "
+"slug name once set</strong>, if changed frequently it will show broken link "
+"and will also effect  search. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4149
+msgid "Knowledge Base Tag Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4150
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>kb-tag</strong>/"
+"kb-post-slig-name/ <br><br></strong> Custom slug name for your knowledge "
+"base tag."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4157
+msgid "Knowledge Base Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4158
+msgid ""
+"<strong>Will appear as:</strong>  Home / <strong>Knowledge Base</strong> / "
+"Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4165
+msgid "Knowledge Base Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4166
+msgid ""
+"<strong>Will link breadcrumb as:</strong>  Home / <a href=\"\">Knowledge "
+"Base</a> / Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4167
+msgid "Custom home page URL for your Knowledge Base"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4177
+#: ../framework/ReduxCore/manual/manual.php:4919
+msgid "Category Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4186
+msgid "Number Of Category Records Per Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4188
+msgid "Value \"-1\" will display all the results i.e no pagination will appear"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4194
+msgid "Category Records Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4195
+msgid "Display order "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4206
+msgid "Category Records Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4207
+msgid "Display order by"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4224
+msgid "Display All Child Category Records Inside Parent Category"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4226
+msgid "Display all child category records under root category"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4233
+msgid "Remove The Sidebar From The Category"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4235
+#: ../framework/ReduxCore/manual/manual.php:4331
+msgid "Make record full width"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4243
+#: ../framework/ReduxCore/manual/manual.php:4338
+#: ../framework/ReduxCore/manual/manual.php:4965
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4254
+#: ../framework/ReduxCore/manual/manual.php:4392
+#: ../framework/ReduxCore/manual/manual.php:4697
+msgid "Disable Quick Stats"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4255
+#: ../framework/ReduxCore/manual/manual.php:4393
+msgid ""
+"Disable views, date posted, posted by and like count displayed under "
+"knowledgebase post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4263
+msgid "Remove Sub-Category Read More Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4274
+#: ../framework/ReduxCore/manual/manual.php:5123
+msgid "Single Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4294
+msgid "Disable Title Icon"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4296
+msgid "Icon that display before article title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4303
+#: ../framework/ReduxCore/manual/manual.php:4688
+msgid "Disable Print"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4305
+msgid "No print icon will appear under knowledgebase post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4312
+msgid "Allow Comments On Each Knowledge Base Article"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4329
+msgid "Remove The Sidebar From The Single Pages"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4349
+#: ../framework/ReduxCore/manual/manual.php:4733
+#: ../framework/ReduxCore/manual/manual.php:5646
+msgid "Disable Post Publish Date"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4351
+#: ../framework/ReduxCore/manual/manual.php:4735
+msgid ""
+"On checked \"Off\" no post publish date will appear under documentation post "
+"title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4358
+#: ../framework/ReduxCore/manual/manual.php:4742
+msgid "Disable Post Modified Date"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4360
+msgid ""
+"On checked \"Off\" no modifed date will appear under knowledgebase post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4367
+#: ../framework/ReduxCore/manual/manual.php:4671
+#: ../framework/ReduxCore/manual/manual.php:5654
+msgid "Disable Author Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4376
+#: ../framework/ReduxCore/manual/manual.php:4655
+#: ../framework/ReduxCore/manual/manual.php:5662
+msgid "Author Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4377
+#: ../framework/ReduxCore/manual/manual.php:4656
+#: ../framework/ReduxCore/manual/manual.php:5663
+msgid "will appear under title i.e aricle display by"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4401
+#: ../framework/ReduxCore/manual/manual.php:4706
+msgid "Disable Social Share"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4402
+msgid "Disable knowledgebase post social share"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4410
+#: ../framework/ReduxCore/manual/manual.php:4715
+msgid "Disable Voting Buttons"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4411
+msgid "Disable knowledgebase post voting buttoms"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4420
+msgid "allow voting ONLY for login users"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4428
+msgid "Allow Related Posts On Each Knowledge Base Article"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4436
+#: ../framework/ReduxCore/manual/manual.php:4759
+msgid "Number Of Related Post to Display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4473
+msgid "Documentation Single Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4474
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>documentation</"
+"strong>/new-doc-post/ <br><br> <div style=\"color: #D01B0B;"
+"\"><strong>WARNING:</strong> Documentation single post slug name "
+"<strong>MUST BE</strong> different from the page name used to display "
+"documentation. If same name provided system will show 404 on the different "
+"cases. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4481
+msgid "Documentation Category (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4482
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>doc</strong>/"
+"product-name/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</"
+"strong> Category Slug Name <strong>MUST BE</strong> different from the "
+"<strong>Documentation Single Post (Slug Name)</strong> and the page name "
+"used to display documentation. 404 error page will appear if name matched on "
+"the different cases. <br><br> <strong>If possible do not change category "
+"slug name once set</strong>, if changed frequently it will show broken link "
+"and will also effect  search. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4489
+msgid "Documentation Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4490
+msgid ""
+"<strong>Will appear as:</strong>  Home / <strong>Documentation</strong> / "
+"product-name /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4497
+msgid "Documentation Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4498
+msgid ""
+"<strong>Will link breadcrumb as:</strong>  Home / <a href="
+"\"\">Documentation</a> / product-name /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4499
+msgid "Custom home page URL for your Documentation"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4509
+msgid "Page Template - \"Documenation - Home\" Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4518
+#: ../framework/vc-include/vc.php:884 ../framework/vc-include/vc.php:1457
+msgid "Category Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4519
+msgid "Category records display order "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4530
+msgid "Category Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4531
+msgid "Category records display order by"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4548
+msgid "Tree Menu Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4557
+msgid "Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4558
+msgid "Records display order "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4569
+msgid "Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4570
+msgid "Records display order by"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4571
+msgid ""
+"Find how orderby works <a href=\"https://codex.wordpress.org/Template_Tags/"
+"get_posts\" target=\"_blank\">https://codex.wordpress.org/Template_Tags/"
+"get_posts</a>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4587
+msgid "Tree Menu Scroller"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4588
+msgid "Scrollbar will appear after certain tree menu height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4596
+msgid "Display Scrollbar After Height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4597
+msgid "Scrollbar will appear after exceeding define tree menu height"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4614
+msgid "Feature On|Off"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4634
+msgid "Hide Notification Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4636
+msgid "Hide notification bar from the documentation area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4637
+msgid "On == Hide"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4643
+msgid "Documentation Tree Menu Sidebar Position"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4680
+msgid "Allow Comments On Each Documentation Article"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4690
+msgid "No print icon will appear under documentation post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4698
+msgid ""
+"Disable views, date posted, posted by and like count displayed under "
+"documentation post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4707
+msgid "Disable documentation post social share"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4716
+msgid "Disable documentation post voting buttoms"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4725
+msgid "Allow voting ONLY for the login users"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4744
+msgid ""
+"On checked \"Off\" no post modifed date will appear under documentation post "
+"title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4751
+msgid "Allow Related Posts On Each Documentation Article"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4769
+msgid "Ajax Page Load Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4779
+msgid "Ajax Load Documentation Article On|Off"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4780
+msgid "System will perform normal content load"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4789
+msgid "Call Javascript after documentation article is loaded via AJAX"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4797
+msgid "Trigger JavaScript Code"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4798
+msgid ""
+"Run ANY JavaScript code globally when documenation article loaded via AJAX"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4806
+#: ../framework/ReduxCore/manual/manual.php:6360
+msgid "JS Code"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4807
+#: ../framework/ReduxCore/manual/manual.php:6361
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4831
+msgid "Ajax Load Page Troubleshoot"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4850
+msgid "Activate VC Inside Documentation Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4851
+msgid "allow visual composer inside ajax load documentation pages"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4852
+msgid ""
+"<strong style=\"color:red\">ALERT:</strong> Documentation records are based "
+"on the ajax call request leading to block VC shortcode that fully depend on "
+"JQuery or Javascript function <br><br> <strong style=\"color:green"
+"\">SOLUTION:</strong> Call ANY JavaScript or JQuery function on AJAX page "
+"load, from the section <strong>\"Manual Options -> Documentation -> Call "
+"Javascript on AJAX Page Load\"</strong>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4884
+msgid "FAQ Single Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4885
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>faqs</strong>/"
+"creating-new-kb-post/ <br><br> <div style=\"color: #D01B0B;"
+"\"><strong>WARNING:</strong> FAQ single post slug name <strong>MUST BE</"
+"strong> different from the page name used to display FAQ. If same name "
+"provided system will show 404 on the different cases. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4892
+msgid "FAQ Category (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4893
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>faq</strong>/"
+"customization/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</"
+"strong> Category Slug Name <strong>MUST BE</strong> different from the "
+"<strong>FAQ Single Post (Slug Name)</strong> and the page name used to "
+"display FAQ. 404 error page will appear if name matched on the different "
+"cases. <br><br> <strong>If possible do not change category slug name once "
+"set</strong>, if changed frequently it will show broken link and will also "
+"effect  search. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4900
+msgid "FAQ Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4901
+msgid ""
+"<strong>Will appear as:</strong>  Home / <strong>FAQ</strong> / "
+"Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4908
+msgid "FAQ Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4909
+msgid ""
+"<strong>Will link breadcrumb as:</strong>  Home / <a href=\"\">FAQ</a> / "
+"Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4910
+msgid "Custom home page URL for your FAQ"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4927
+#: ../framework/vc-include/vc.php:921
+msgid "Records Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4928
+msgid "FAQ records order"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4939
+msgid "FAQ Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4940
+msgid "FAQ records order by"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4956
+msgid "Disable Sidebar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4957
+msgid "If checked FAQ sidebar will disable"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4976
+#: ../framework/ReduxCore/manual/manual.php:5236
+msgid "Social Share"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4977
+msgid "show hide social share inside FAQ blocks"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4985
+msgid "\"Expand / Collapse All\" Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4986
+msgid "Disable/Enable \"Expand / Collapse All\" "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:4997
+msgid "Category Page - Custom Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5006
+msgid "Overwrite <h5> Title Tag"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5008
+msgid "Enabling this feature will overwrite <h5> tag"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5063
+msgid "Search Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5072
+msgid "Hash Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5073
+msgid "If disable, system will redirect to the single FAQ page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5087
+#: ../framework/ReduxCore/manual/manual.php:5586
+#: ../framework/vc-include/vc.php:1782 ../framework/widget/widget.php:118
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5094
+msgid "Custom Slug Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5102
+msgid "Portfolio Single Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5103
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>work</strong>/"
+"single-portfolio-record/ <br><br>  <div style=\"color: #D01B0B;"
+"\"><strong>WARNING:</strong> Single post portfolio <strong>Slug Name</"
+"strong> must be different from the page name used to display portfolio</"
+"strong>. If same name provided system will show 404 error page when used "
+"Portfolio pagination. "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5110
+msgid "Portfolio Category (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5111
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>pfocat</strong>/"
+"themes/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</strong> "
+"Category Slug Name must be different from the <strong>Portfolio Single Post "
+"(Slug Name)</strong>. If same name provided system will show 404 error page "
+"when click on the Portfolio category link. <br><br> <strong>If possible do "
+"not change category slug name once set</strong>, if changed frequently it "
+"will show broken link and will also effect search. </div>"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5132
+msgid "Activate Comment Box"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5133
+msgid "Allow comments on each portfolio article"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5140
+msgid "Deactivate Next/Previous Link "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5141
+msgid "Disable previous / next link at the bottom of the portfolio single page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5157
+msgid "Blog"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5164
+msgid "Custom Breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5173
+msgid "Custom Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5174
+msgid ""
+"<strong>Will appear as:</strong>  Home / <strong>{BLOG CUSTOM NAME}</"
+"strong> / Latest News /"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5176
+msgid "Will replace blog page name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5182
+msgid "Remove Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5194
+msgid "Blog Post Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5202
+msgid "Apply \"Front Post Page\" Header Settings To All The Blog Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5211
+msgid "Blog Single Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5218
+msgid "Blog Title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5227
+msgid "Format Icon"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5237
+msgid "on/off social share from the blog post"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5245
+msgid "Sidebar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5246
+msgid "on/off sidebar from the blog post"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5254
+msgid "Apply Center Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5275
+msgid "Forum"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5283
+msgid "Forum Section \"with or without sidebar\""
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5301
+msgid "User Alert Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5302
+msgid "Qill appear ONLY on the forum home page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5326
+msgid "WooCommerce"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5334
+msgid "Number Of Columns"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5335
+msgid "Choose number of columns for product listing"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5346
+msgid "Display Sidebar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5347
+msgid "Display sidebar on the product listing page i.e on default shop page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5354
+msgid "Number Of Related Products"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5355
+msgid "Choose number of related products"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5384
+msgid "Live Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5395
+msgid "Default Live/Normal Target Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5397
+msgid ""
+"<strong>NOTE:</strong> If no any post type selected above, system will do "
+"normal WP (default) search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5404
+msgid "Disable Live Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5405
+msgid "Globally disable live search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5413
+msgid "Disable Live Search Post Navigation/Breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5422
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5429
+msgid "Flip Search Placeholder Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5436
+msgid "Search Buttom Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5443
+msgid "Show All Results Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5450
+msgid "No Results Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5467
+msgid "Activate Trending Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5468
+msgid "Globally enable/disable trending searches "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5476
+#: ../framework/vc-include/vc.php:755
+msgid "Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5477
+msgid "Short message words"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5478
+msgid "Default: Popular Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5485
+msgid "Trending Search keyword"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5486
+msgid ""
+"Include 3 search term that is trending ex: installation, demo data etc..."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5500
+msgid "Target Post Type Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5515
+msgid "Activate Dropdown Target Search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5516
+msgid "Globally enable/disable target search"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5524
+msgid "Dropdown Target Search Box Margin Right"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5525
+msgid "Adjust dropdown box design, if creating any space"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5526
+msgid "Example: 0px, -10px, 20px"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5533
+msgid "Activate Dropdown Target Search On The Forum (bbpress) Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5534
+msgid "Globally enable/disable post type search "
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5545
+msgid "Target Search (Dropdown list)"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5547
+msgid ""
+"<strong>NOTE:</strong> Post Type: \"Forums\" does not work ONLY for the "
+"TARGET LIVE search but WORKS SMOOTHLY for the normal search <br><br> "
+"<strong>NOTE 2:</strong> Post Type: \"Replies and Topics\" will not list on "
+"the Target Search although selected on list above."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5554
+msgid "Target Search Dropdown Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5562
+msgid "Default"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5563
+msgid "Default display text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5571
+msgid "Dropdown Knowledge Base Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5579
+msgid "Dropdown Documentation Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5587
+msgid "Dropdown Portfolio Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5594
+msgid "FAQs"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5595
+msgid "Dropdown FAQs Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5602
+msgid "Forums"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5603
+msgid "Dropdown Forums Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5610
+msgid "Media"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5611
+msgid "Dropdown Media Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5618 ../template/content.php:81
+msgid "Page"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5619
+msgid "Dropdown Page Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5627
+msgid "Dropdown Post Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5648
+msgid ""
+"On checked \"Off\" no post publish date will appear under search post title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5678
+msgid "Search Post Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5685
+msgid "Display Search Post Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5696
+msgid "Target Search Result Display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5698
+msgid ""
+"<strong>NOTE:</strong> If no any post type selected, system will just "
+"display title"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5705
+msgid "Limit Post Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5706
+msgid "Search post description will limit to define character"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5707
+msgid "Default Character: 200 words"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5722
+msgid "Page Template \"Home Page\" Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5724
+msgid "These are really basic fields!"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5731
+msgid "Help Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5741
+msgid "Home Help Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5749
+msgid "Display Minimum \"X\" no of Help Blocks"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5750
+msgid "Choose minimum number of help blocks to display"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5780
+msgid "Help Section Block Infomration"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5781
+msgid ""
+"Please click on <strong>\"Home Help Blocks -> Add New Block\"</strong> to "
+"add new blocks on the Help Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5790
+#: ../framework/vc-include/vc.php:426
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5799
+#: ../framework/ReduxCore/manual/manual.php:5834
+msgid "Organization Blocks Display Status"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5806
+msgid "Testimonials Parallax Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5815
+msgid "Testimonials Infomration"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5816
+msgid ""
+"Please click on <strong>\"Testimonials -> Add New Block\"</strong> to add "
+"new Testimonials blocks"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5841
+msgid "Organizational Block Sidebar Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5864
+msgid "Organization Blocks Infomration"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5865
+msgid ""
+"Please click on <strong>\"Home Org Blocks -> Add New Block\"</strong> to add "
+"new blocks on the Help Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5873
+msgid "Message Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5882
+msgid "Message Bar Display Status"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5905
+msgid "Bottom Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5906
+msgid "Bottom display text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5913
+msgid "Bottom Url"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5924
+#: ../framework/ReduxCore/manual/manual.php:5961
+msgid "Fun Act"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5933
+msgid "Fun Act Display Status"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5940
+msgid "Fun Act Parallax Image"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5962
+msgid "Define organization fun act."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5975
+msgid "Fun Act Number"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5976
+msgid "Define organization fun act Number."
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:5993
+msgid "404 Page Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6003
+msgid "Disable Page Content"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6026
+msgid "Page Content Text"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6033
+msgid "Disable Search Box"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6048
+msgid "Notification Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6057
+msgid "Notification Bar Display Status"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6064
+msgid "Color RGBA"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6083
+msgid "Text Margin Top/Bottom"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6095
+msgid "Message"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6115
+msgid "Footer"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6132
+msgid "Footer Style Type"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6145
+msgid "Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6152
+msgid "Disable Footer Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6153
+#: ../framework/ReduxCore/manual/manual.php:6248
+msgid "Only works for the default footer style i.e with widget and footer"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6160
+msgid "Number Of Widget"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6172
+msgid "Adjust, Widget Area Column"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6179
+msgid ""
+"IMPORTANT! Adjust, 'Widget Area Column' based to the 'Number Of Widget' size "
+"chosen above"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6187
+msgid "Footer One Column"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6199
+msgid "Footer Two Column"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6211
+msgid "Footer Three Column"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6223
+msgid "Footer Four Column"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6238
+msgid "Copyright & Social"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6247
+msgid "Disable Footer Social/copyright Area"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6255
+msgid "Disable Copyright Section"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6263
+msgid "Disable Social Icons"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6274
+msgid "Social Icons"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6283
+msgid "Facebook URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6289
+msgid "Twitter URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6295
+msgid "Youtube URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6301
+msgid "Google URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6307
+msgid "Instagram URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6313
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6319
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6325
+msgid "vimo URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6331
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6343
+msgid "Custom Code"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6351
+msgid "CSS Custom Code"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6352
+msgid "Change theme design using your own custom code"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6445
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/ReduxCore/manual/manual.php:6446
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:393
+#: ../framework/tgm/tgm-plugin-activation.php:912
+#: ../framework/tgm/tgm-plugin-activation.php:2618
+#: ../framework/tgm/tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:394
+#: ../framework/tgm/tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1019
+#: ../framework/tgm/tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/vc-include/row.php:28
+msgid "Content Display Type"
+msgstr ""
+
+#: ../framework/vc-include/row.php:43
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/vc-include/row.php:60
+msgid "Row Type"
+msgstr ""
+
+#: ../framework/vc-include/row.php:75
+msgid "Row Stretch Background"
+msgstr ""
+
+#: ../framework/vc-include/row.php:99
+msgid "Linear gradient color"
+msgstr ""
+
+#: ../framework/vc-include/row.php:119 ../framework/vc-include/row.php:221
+msgid "Background Image Position"
+msgstr ""
+
+#: ../framework/vc-include/row.php:134 ../framework/vc-include/row.php:236
+msgid "Apply Background Opacity"
+msgstr ""
+
+#: ../framework/vc-include/row.php:155
+msgid "Row video background"
+msgstr ""
+
+#: ../framework/vc-include/row.php:168
+msgid "Video background (webm) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:178
+msgid "Video background (mp4) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:188
+msgid "Video background (ogv) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:198
+msgid "Video preview image"
+msgstr ""
+
+#: ../framework/vc-include/row.php:211
+msgid "Background image"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1001
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1011
+msgid "Show more"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1012
+msgid "Loading..."
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1406
+#: ../framework/vc-include/shortcodes.php:1466
+msgid "Username"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1411
+msgid "Password"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1417
+msgid "Keep me signed in"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1459
+msgid "Create an Account"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1471
+#: ../woocommerce/single-product-reviews.php:87
+msgid "Email"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1478
+msgid "Register"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1504
+#: ../template/doc/functions.php:214
+msgid "Lost Password"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1507
+msgid "Username or Email"
+msgstr ""
+
+#: ../framework/vc-include/shortcodes.php:1513
+msgid "Reset My Password"
+msgstr ""
+
+#: ../framework/vc-include/template.php:8
+msgid "[Manual] Service Page"
+msgstr ""
+
+#: ../framework/vc-include/template.php:57
+msgid "[Manual] About Us Page"
+msgstr ""
+
+#: ../framework/vc-include/template.php:82
+msgid "[Manual] Pricing Table"
+msgstr ""
+
+#: ../framework/vc-include/template.php:130
+msgid "[Manual] Home - Business"
+msgstr ""
+
+#: ../framework/vc-include/template.php:160
+msgid "[Manual] Home - Creative"
+msgstr ""
+
+#: ../framework/vc-include/template.php:189
+msgid "[Manual] Home - Corporate"
+msgstr ""
+
+#: ../framework/vc-include/template.php:216
+msgid "[Manual] Home - Portfolio"
+msgstr ""
+
+#: ../framework/vc-include/template.php:233
+msgid "[Manual] Home - Landing"
+msgstr ""
+
+#: ../framework/vc-include/template.php:276
+msgid "[Manual] Home - KB Classic"
+msgstr ""
+
+#: ../framework/vc-include/template.php:293
+msgid "[Manual] Home - KB Modern"
+msgstr ""
+
+#: ../framework/vc-include/template.php:310
+msgid "[Manual] Home - KB Trending"
+msgstr ""
+
+#: ../framework/vc-include/template.php:327
+msgid "[Manual] Home - KB Group Tab"
+msgstr ""
+
+#: ../framework/vc-include/template.php:344
+msgid "[Manual] Home - Help Desk 1"
+msgstr ""
+
+#: ../framework/vc-include/template.php:417
+msgid "[Manual] Home - Help Desk 2"
+msgstr ""
+
+#: ../framework/vc-include/template.php:446
+msgid "[Manual] Home - Help Desk 3"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:37
+msgid "Counter"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:39 ../framework/vc-include/vc.php:185
+#: ../framework/vc-include/vc.php:428 ../framework/vc-include/vc.php:534
+#: ../framework/vc-include/vc.php:840 ../framework/vc-include/vc.php:1294
+#: ../framework/vc-include/vc.php:1532 ../framework/vc-include/vc.php:1589
+#: ../framework/vc-include/vc.php:1757 ../framework/vc-include/vc.php:1785
+#: ../framework/vc-include/vc.php:2075 ../framework/vc-include/vc.php:2140
+#: ../framework/vc-include/vc.php:2200 ../framework/vc-include/vc.php:2579
+#: ../framework/vc-include/vc.php:2682 ../framework/vc-include/vc.php:2830
+#: ../framework/vc-include/vc.php:2936 ../framework/vc-include/vc.php:2961
+#: ../framework/vc-include/vc.php:3083
+msgid "Manual"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:183
+msgid "Team"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:194 ../framework/vc-include/vc.php:2117
+#: ../framework/vc-include/vc.php:2607
+msgid "Image"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:210
+msgid "Name Title Tag"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:227
+msgid "Name Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:236
+msgid "Position"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:244
+msgid "Position Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:253
+msgid "Show Separator"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:267
+msgid "Separator Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:278
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:289
+msgid "Social Icon 1"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:298
+msgid "Social Icon 1 Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:322
+msgid "Social Icon 2"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:331
+msgid "Social Icon 2 Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:355
+msgid "Social Icon 3"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:364
+msgid "Social Icon 3 Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:388
+msgid "Social Icon 4"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:397
+msgid "Social Icon 4 Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:437
+msgid "Number"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:440
+msgid "Number of Testimonials, if place -1 it will display all"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:447
+msgid "Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:462
+msgid "Order Type"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:486
+msgid "Custom Text Font"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:489
+msgid "Enter as: 12px, 34px as per your need"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:496
+msgid "Author Text Font Weight"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:517
+msgid "Author Text Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:531
+msgid "Icon With Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:543
+msgid "Custom Design Icon Box"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:550
+msgid "Select Yes if you want to custom design your icon box"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:557
+msgid "Box Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:567
+msgid "Box Padding"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:578
+msgid "Box Margin"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:588
+msgid "Box CSS Animation"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:623
+msgid "Icon Position"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:638
+msgid "Icon Margin (px)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:649
+msgid "Use Custom Icon Size"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:656
+msgid "Select Yes if you want to use custom icon size and margin"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:663
+msgid "Custom Icon Size (px)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:666
+msgid "Enter just number, omit px"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:674
+msgid "Custom Icon Margin (px)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:677
+msgid ""
+"Spacing between icon and text (for left icon/margin position). Enter just "
+"number, omit px"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:685 ../framework/vc-include/vc.php:977
+#: ../framework/vc-include/vc.php:1180 ../framework/vc-include/vc.php:2860
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:712
+msgid "Title Font Size (px)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:773
+msgid "Custom Top Margin (px)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:776
+msgid "Spacing between title text and text. Enter just number, omit px"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:783
+msgid "Activate Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:796
+msgid "Link URL Type"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:811 ../framework/vc-include/vc.php:2107
+#: ../framework/vc-include/vc.php:2597 ../framework/vc-include/vc.php:2723
+#: ../framework/vc-include/vc.php:2887
+msgid "Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:837
+msgid "KnowledgeBase"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:849 ../framework/vc-include/vc.php:1056
+msgid "Knowledgebase Style"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:861 ../framework/vc-include/vc.php:1447
+msgid "Number Of Category Records"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:871
+msgid "Knowledgebase Columns"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:896 ../framework/vc-include/vc.php:1469
+msgid "Category Display OrderBy"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:934
+msgid "Records Display Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:951
+msgid "Display Child Category as Main Category"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:986
+msgid "Display Category Description"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:998
+msgid "Category Description Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1017
+msgid "Display Read More Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1029
+msgid "KnowledgeBase by - Category ID (comma seprated ID)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1044
+msgid "KnowledgeBase - Category Landing Style"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1068
+msgid "Number Of Records"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1103 ../framework/vc-include/vc.php:1254
+#: ../framework/vc-include/vc.php:1484
+msgid "Private Category Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1130
+msgid "Limit your description characters"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1138
+msgid "Article count text box"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1139
+msgid "Default text: articles in this collection"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1159
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1169 ../framework/vc-include/vc.php:1437
+#: ../framework/vc-include/vc.php:2812
+msgid "Border Radius"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1190
+msgid "Default Icon Code Name"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1200
+msgid "Icon Size"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1210
+msgid "Page Records Display Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1223
+msgid "Page Records Display Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1264
+msgid "Private Category Text Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1273
+msgid "Exclude Knowledge Base Category (comma seprated ID)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1291
+msgid "KnowledgeBase - Single Category Records"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1303 ../framework/vc-include/vc.php:2271
+msgid "Number Of Post Per Page"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1313 ../framework/vc-include/vc.php:2346
+msgid "Post Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1326 ../framework/vc-include/vc.php:2359
+msgid "Post Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1343 ../framework/vc-include/vc.php:2376
+msgid "Include Child Post"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1355 ../framework/vc-include/vc.php:2388
+msgid "Hide Pagination"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1367
+msgid "Knowledgebase Category ID"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1383
+msgid "KnowledgeBase - Tree View"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1409
+msgid "Root tag <li> padding"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1419
+msgid "Root tag <li> Background Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1428
+msgid "Root tag <li> Border Buttom Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1494
+msgid "Records Under Category Display Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1507
+msgid "Records Under Category Display Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1529
+msgid "Widget - KnowledgeBase Category"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1551 ../framework/vc-include/vc.php:2159
+msgid "Show post counts"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1561 ../framework/vc-include/vc.php:2169
+msgid "Count Text Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1571 ../framework/vc-include/vc.php:2179
+msgid "Count Background Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1586
+msgid " Widget - KnowledgeBase Article"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1608
+msgid "Articles By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1623
+msgid "Number Of Article"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1640
+msgid "Article Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1658
+msgid "Documentation - Tree View Ajax Load Post"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1670
+msgid "Post Type"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1681
+msgid "Tree Menu Display Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1693
+msgid "Tree Menu Display Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1709
+msgid "Tree Menu Display Position"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1721
+msgid "Post Type Category ID (ONLY single category ID allowed)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1731
+msgid "Expand All Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1740
+msgid "Collapse All Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1754
+msgid "Home Help Blocks"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1766
+msgid "Title Name (Only For heading, will not display anywhere)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1794
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1807
+msgid "Display Portfolio Filter"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1820
+msgid "Filter Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1850
+msgid "Filter Link Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1860
+msgid "Filter Link Border Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1870
+msgid "Filter Align"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1884
+msgid "Filter Padding"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1895
+msgid "Number of portfolio records per page"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1898
+msgid "NOTE: value -1 display all result"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1905
+msgid "Portfolio by Selected Category"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1915
+msgid "Portfolio by Selected Projects"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1925
+msgid "Portfolio Title Tag"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1941
+msgid "Portfolio Order"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1954
+msgid "Portfolio Order By"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:1970
+msgid "Portfolio Column"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2005
+msgid "Category Text Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2027
+msgid "Show Load More"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2041
+msgid "Show Load More Text Align"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2056
+msgid "Show Load More margin"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2072
+msgid "Monitor Frame"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2137
+msgid "Widget - FAQ Category"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2197
+msgid "FAQ - Single Category Records"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2209
+msgid "FAQ Display Style"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2221 ../framework/vc-include/vc.php:2235
+msgid "Display Column"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2281
+msgid "Custom Title"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2400
+msgid "Category ID (ENTER ONLY SINGLE ID)"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2418
+msgid "bbPress - Login"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2464
+msgid "Register Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2467
+msgid "Register Link URL"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2473
+msgid "Lost Password Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2476
+msgid "Lost Password Link URL"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2487
+msgid "bbPress - Register"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2539
+msgid "bbPress - Lost Password"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2576
+msgid "Item Frame"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2640
+msgid "Apply Image Box Shadow"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2649
+msgid "Image Box CSS Animation"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2680
+msgid "Button"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2691
+msgid "Botton Margin"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2700
+msgid "Botton CSS Animation"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2733
+msgid "Button Align"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2766
+msgid "Text Padding"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2776 ../framework/vc-include/vc.php:3060
+msgid "Button Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2785
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2794
+msgid "Remove Border Bottom"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2803
+msgid "Remove Text Shadow"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2828
+msgid "Service Table"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2844 ../framework/vc-include/vc.php:2976
+msgid "The title of the service section"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2850
+msgid "Icon Image"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2872
+msgid "short info"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2879
+msgid "Description Text Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2897
+msgid "Box Font Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2915
+msgid "Box Background Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2924 ../framework/vc-include/vc.php:3051
+msgid "Box Border Color"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2932
+msgid "Service Option"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2944 ../framework/vc-include/vc.php:3092
+msgid "Option Text"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2947 ../framework/vc-include/vc.php:3095
+msgid "An option this Service table includes"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2959
+msgid "Pricing Table"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2983
+msgid "Price"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:2992
+msgid "Currency"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:3001
+msgid "Price Period"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:3009
+msgid "Button Link"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:3019
+msgid "Make Box Standout"
+msgstr ""
+
+#: ../framework/vc-include/vc.php:3079
+msgid "Pricing Option"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:16
+msgid "KB Custom Category"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:18
+msgid "Display custom knowledgebase category"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:68
+#: ../framework/widget/widget-type.php:199
+#: ../framework/widget/widget-type.php:323
+#: ../framework/widget/widget-type.php:482
+msgid "New title"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:146
+msgid "FAQ Categroy"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:148
+msgid "Faq records based on category"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:255
+msgid "KB Categroy"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:257
+msgid "KB records based on category"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:382
+msgid "KB Articles"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:384
+msgid ""
+"KB articles (latest, popular, top rated and the most commented articles)"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:564
+msgid "KB Category Articles In Single Page Sidebar"
+msgstr ""
+
+#: ../framework/widget/widget-type.php:566
+msgid "display category articles for all KB single post pages"
+msgstr ""
+
+#: ../framework/widget/widget.php:23
+msgid "Primary Area"
+msgstr ""
+
+#: ../framework/widget/widget.php:25
+msgid "Add widgets here to appear in your blog/search/archive area"
+msgstr ""
+
+#: ../framework/widget/widget.php:33
+msgid "Faq Widgets"
+msgstr ""
+
+#: ../framework/widget/widget.php:35
+msgid "Add widgets here to appear inside FAQ page."
+msgstr ""
+
+#: ../framework/widget/widget.php:43
+msgid "Faq Sidebar"
+msgstr ""
+
+#: ../framework/widget/widget.php:52
+msgid "Contact Us Sidebar"
+msgstr ""
+
+#: ../framework/widget/widget.php:54
+msgid "Add widgets here to appear on the Contact Us page sidebar."
+msgstr ""
+
+#: ../framework/widget/widget.php:62
+msgid "Knowledge Base Sidebar"
+msgstr ""
+
+#: ../framework/widget/widget.php:64
+msgid "Add widgets here to appear on the Knowledge Base page sidebar."
+msgstr ""
+
+#: ../framework/widget/widget.php:72
+msgid "BBPress Sidebar"
+msgstr ""
+
+#: ../framework/widget/widget.php:81
+msgid "Footer Box 1"
+msgstr ""
+
+#: ../framework/widget/widget.php:91
+msgid "Footer Box 2"
+msgstr ""
+
+#: ../framework/widget/widget.php:100
+msgid "Footer Box 3"
+msgstr ""
+
+#: ../framework/widget/widget.php:109
+msgid "Footer Box 4"
+msgstr ""
+
+#: ../framework/widget/widget.php:127
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../template/content.php:15
+msgid "Featured"
+msgstr ""
+
+#: ../template/content.php:77
+msgid "Pages:"
+msgstr ""
+
+#: ../template/bbpress/functions.php:141
+msgid "No Topics"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:98
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:102
+msgid "Your rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:103
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:104
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:105
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:106
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:107
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:108
+msgid "Very poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:112
+msgid "Your review"
+msgstr ""
+
+#: ../woocommerce/woocommerce_configuration.php:56
+msgid "Out of Stock"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:27
+msgid "Product Description"
+msgstr ""

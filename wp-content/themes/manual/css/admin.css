@@ -1,0 +1,60 @@
+.redux-dev-mode-notice-container.redux-dev-qtip {
+	display: none;
+}
+.manual_adminmsg {
+	padding: 20px;
+	font-size: 14px;
+	color: #FCFCFC;
+	color: #000000;
+	background: white;
+	border-left: 4px solid #46b450;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.manual_adminmsg span {
+	color: #C31111;
+	font-weight:bold;
+}
+#redux-header .rAds, #redux-header .rAds img {
+	display: none!important;
+}
+.redux-container .redux-group-tab h3 {
+	border-bottom: 5px solid #d4ddf1;
+	background: #edf2fd;
+	padding: 2px 0px 2px 13px;
+}
+.redux-container .redux-group-tab h3:before {
+	content: "\f103";
+	font: normal normal normal 14px/1 'Elusive-Icons';
+	padding-right: 13px;
+	color: #565bf5;
+	font-size: 16px;
+	font-weight: 300;
+}
+.theme_metabox_margin_left_50 {
+	margin-left: 50px!important;
+}
+.theme_metabox_margin_left_100 {
+	margin-left: 100px!important;
+}
+h1.ocdi__title.dashicons-before.dashicons-upload {
+    display: none;
+}
+#setting-error-tgmpa .manual-tgmpa-modified-heading {
+    display: block;
+    margin-bottom: 0.5em;
+    font-size: 1.3em;
+    color: #dc3232;
+}
+#setting-error-tgmpa {
+    padding: 10px 38px 10px 20px;
+}
+#setting-error-tgmpa.notice-warning {
+    border-left-color: #dc3232;
+}
+.about-wrap .notice, .about-wrap div.error, .about-wrap div.updated {
+	display:block!important;
+}
+#cpt_info_box {
+	display:none!important;
+}
